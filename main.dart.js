@@ -87026,7 +87026,7 @@ A.Lb.prototype={
 G(a){var s,r,q,p=null,o=t.w,n=A.b6(a,p,o).w
 o=A.b6(a,p,o).w
 n=n.a.a<=500
-s=A.a2("Saad Saleem(v1.0.0)",p,p,p,A.cr().$3$color$fontSize$letterSpacing(B.z,n?12:14,1),p,p)
+s=A.a2("Saad Saleem(v1.0.1)",p,p,p,A.cr().$3$color$fontSize$letterSpacing(B.z,n?12:14,1),p,p)
 r=A.a2("Built with Flutter",p,p,p,A.cr().$3$color$fontSize$letterSpacing(B.z,n?10:12,1),p,p)
 if(n)n=A.a2("Copyright \xa9 2023 Saad Saleem,\nAll Rights Reserved",p,p,p,A.cr().$3$color$fontSize$letterSpacing(B.z,10,1),B.cQ,p)
 else n=A.a2("Copyright \xa9 2023 Saad Saleem, All Rights Reserved",p,p,p,A.cr().$3$color$fontSize$letterSpacing(B.z,12,1),p,p)
